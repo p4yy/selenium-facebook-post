@@ -4,8 +4,8 @@
 	"url_user":"https://www.facebook.com/payy23",
 	"start":1,
 	"end":10000,
-    "teks":["#MyTeam","Link:GarbelSoft"],
+	"teks":["#MyTeam","Link:GarbelSoft"],
 	"tagPeople":["tag1","tag2","morePeople"],
 	"delayPost":25,
-    "breakEveryPostOn":[30,180]
+	"breakEveryPostOn":[30,180]
 }
