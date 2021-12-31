@@ -1,0 +1,10 @@
+download chromedriver:
+https://chromedriver.chromium.org/downloads
+
+check ur version of google chrome
+-help
+-about google chrome
+-if your version google chrome is 96.xxx or 97.xxx
+-then download chromdriver which can support your google chrome version
+
+copy and paste chromedriver.exe into this directory
