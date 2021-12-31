@@ -94,6 +94,7 @@ def main():
 		sleep(0.5)
 		clickImage(post_Path)
 		sleep(delayPost)
+		print(f"Post #{start}")
 		start+=1
 		sleepAt+=1
 
