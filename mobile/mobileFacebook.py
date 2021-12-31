@@ -15,7 +15,7 @@ def clickImage(self):
 def main():
 	data = load(open('configMobile.json','r'))
 	whatsOnYourMind_Path = "image\\whatsOnYourMind.PNG"
-	typeUrTeks_Path = "image\\typeUrTeks.PNG"
+	typeUrTeks_Path = "image\\whatsOnYourMind.PNG"
 	tagFriends_Path = "image\\tagFriends.PNG"
 	startTypingName_Path = "image\\startTypingName.PNG"
 	doneTypingName_Path = "image\\doneTypingName.PNG"
@@ -47,9 +47,9 @@ def main():
 				sleep(2)
 		sleep(0.2)
 		clickImage(typeUrTeks_Path)
-		sleep(0.1)
+		sleep(3)
 		for x in teks:
-			pyautogui.write(x,interval=0.15)
+			pyautogui.write(x,interval=0.05)
 			pyautogui.press('enter')
 			sleep(0.2)
 		pyautogui.write(str(f'#{start:,}'))

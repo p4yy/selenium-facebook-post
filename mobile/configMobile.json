@@ -2,7 +2,7 @@
     "start":1,
     "end":10000,
     "teks":["#MyTeam","Link:GarbelSoft"],
-    "tagPeople":["tag1","tag2","morePeople"],
+    "tagPeople":["payy hooh","mayy"],
     "delayPost":25,
     "breakEveryPostOn":[30,180],
     "tagPeople_Path":["image\\people\\friend1.PNG","image\\people\\friend2.PNG"]
