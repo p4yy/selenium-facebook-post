@@ -1,11 +1,11 @@
 {
-	"username":"email or username",
-	"password":"ur password",
-	"url_user":"https://www.facebook.com/payy23",
+	"username":"username or email",
+	"password":"your password",
+	"url_user":"https://www.facebook.com/payy23 change into your profile",
 	"start":1,
 	"end":10000,
 	"teks":["#MyTeam","Link:GarbelSoft"],
-	"tagPeople":["tag1","tag2","morePeople"],
+	"tagPeople":["Payy Hooh","Mayy"],
 	"delayPost":25,
 	"breakEveryPostOn":[30,180]
 }
