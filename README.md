@@ -15,7 +15,7 @@ in file .json at the variable "breakEveryPostOn":[30,180] the first value is if 
 - run webFacebook.py
 
 ### mobile:
-- re-screenshot all image in directory image/
+- re-screenshot all image in directory image/, use snipping tools 
 - setting configMobile.json according to your needs
 - cd .\mobile
 - run mobileFacebook.py
