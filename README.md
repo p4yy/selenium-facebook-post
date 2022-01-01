@@ -19,5 +19,5 @@ in file .json at the variable "breakEveryPostOn":[30,180] the first value is if 
 - run webMobile.py
 
 # support
-Give a ⭐️ if you like this
+Give a ⭐️ if you like this <br>
 buy me a coffe [https://saweria.co/p4yy]
