@@ -11,11 +11,13 @@ in file .json at the variable "breakEveryPostOn":[30,180] the first value is if 
 ### web:
 - download chromedriver, replace to chromedriver directory
 - setting configWeb.json according to your account
+- cd .\web
 - run webFacebook.py
 
 ### mobile:
 - re-screenshot all image in directory image/
 - setting configMobile.json according to your needs
+- cd .\mobile
 - run mobileFacebook.py
 
 # support
